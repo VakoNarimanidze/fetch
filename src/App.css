@@ -46,9 +46,10 @@ td{
 td::after{
   content: "";
   display: block;
-  width: 331px;
+  width: 253px;
   height: 1px;
-  background: rgba(238, 238, 238, 1);
-  margin-left: -109.5px;
+  /* background: rgba(238, 238, 238, 1); */
+  background: blue;
+  margin-left: -50.5px;
   margin-top: 10px;
 }
