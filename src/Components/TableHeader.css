@@ -1,0 +1,36 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+tr{
+    display:  flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+}
+@font-face{
+    font-family: Poppins;
+    src: url(./font/Poppins-Regular.ttf);
+}
+th{
+    color: rgba(181, 183, 192, 1);
+    margin-left: 60px;
+    font-family:Poppins ;
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.forthTh{
+    margin-left: 10 0px;
+}
+.lastTh{
+    margin-left: 100px;
+}
+.thirdTh{
+    margin-left: 50px;
+}
+.secondTh{
+    margin-left: 30px;
+}
